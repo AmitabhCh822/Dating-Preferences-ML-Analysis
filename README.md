@@ -23,7 +23,7 @@ The project pipeline includes:
 To run the analysis:
 
 1. Clone this repository to your local machine.
-2. Make sure R, Python, and Jupyter Notebooks are installed along with necessary libraries such as `ggplot2`, `sklearn`, and others.
+2. Make sure R, Python and Jupyter Notebooks are installed along with necessary libraries such as `ggplot2`, `sklearn`, and others.
 3. Execute the `analysis.R` script to perform the statistical analysis and model training.
 4. Explore the `visualizations/` directory to see the graphical representations of the data.
 
