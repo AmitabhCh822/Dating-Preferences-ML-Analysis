@@ -15,7 +15,7 @@ The project pipeline includes:
 2. **Exploratory Data Analysis (EDA)**: Analyzing the dataset to summarize its main characteristics, often with visual methods.
 3. **Feature Engineering**: Crafting and selecting appropriate features for machine learning models.
 4. **Machine Learning Modeling**: Applying different algorithms to predict dating preferences based on the dataset.
-5. **Model Evaluation**: Assessing the performance of machine learning models using metrics such as accuracy, precision, recall, and F1 score.
+5. **Model Evaluation**: Assessing the performance of machine learning models using metrics such as accuracy, precision, recall and F1 score.
 6. **Data Visualization**: Creating visualizations to interpret the data and model results more intuitively.
 
 ## Getting Started
