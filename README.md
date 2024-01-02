@@ -5,7 +5,7 @@ This repository is dedicated to analyzing and predicting dating preferences usin
 ## Repository Structure
 
 - `dating.csv` - The primary dataset for the analysis, containing user attributes and dating preferences.
-- `analysis.R` - The R script that performs statistical analysis and machine learning model training.
+- `analysis.r` - The R script that performs statistical analysis and machine learning model training.
 
 ## Analysis and Machine Learning Pipeline
 
@@ -29,7 +29,6 @@ To run the analysis:
 
 ## Contributor
 Amitabh Chakravorty
-
 
 
 
